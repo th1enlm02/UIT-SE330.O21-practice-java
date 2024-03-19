@@ -1,5 +1,3 @@
-package exercise_02;
-
 import java.util.Scanner;
 
 public class Rectangle extends Shape{
