@@ -6,9 +6,10 @@ public class exercise_01 extends JFrame {
     private JTextField fieldName;
     private JButton submitButton;
 
-    public void exercise_01_dialog() {
-        setTitle("Exercise01 Dialog");
+    public exercise_01() {
+        setTitle("exercise_01");
         setSize(500, 200);
+        setLocationRelativeTo(null);
         setDefaultCloseOperation(
             JFrame.EXIT_ON_CLOSE
         );
@@ -30,11 +31,9 @@ public class exercise_01 extends JFrame {
 
         add(panel);
 
-        setLocationRelativeTo(null);
-
         setVisible(true);
     }
     public static void main(String[] args) {
-        new exercise_01().exercise_01_dialog();
+        new exercise_01();
     }
 }
