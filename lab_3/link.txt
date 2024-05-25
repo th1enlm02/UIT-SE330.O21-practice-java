@@ -1,0 +1,2 @@
+JDBC Drive: https://www.codejava.net/jdbc-tutorials?fbclid=IwAR2jobuWJkz8EJfsWHa_7TASC0XZoZe7wz8SH2irShxubtufTDy7Ddc4B-s
+Hướng dẫn mở port 1433 cho SQL Server (thực hiện từ bước 4 trong hướng dẫn): https://kienthuclaptrinh.vn/2012/07/24/7-buoc-de-mo-port-1433-cho-ms-sql-server/
