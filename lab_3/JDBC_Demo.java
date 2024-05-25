@@ -1,4 +1,4 @@
-package jdbc_demo;
+package lab_3;
 
 /**
  *
